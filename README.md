@@ -3,7 +3,7 @@
 ![Log4Bash](log4bash.png) 
 
 
-# Usage
+## Usage
 ```bash
 
 # First off load Log4Bash into your script using 
