@@ -2,7 +2,6 @@
 [![stars](https://img.shields.io/github/stars/GoByeBye/Log4Bash?style=for-the-badge)](https://idiots.click)  ![GitHub followers](https://img.shields.io/github/followers/GoByeBye?style=for-the-badge) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/15bb4020866445eea712c0060567fd6b)](https://www.codacy.com/gh/GoByeBye/Log4Bash/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GoByeBye/Log4Bash&amp;utm_campaign=Badge_Grade)
 ![Log4Bash](log4bash.png) 
 
-
 ## Usage
 ```bash
 
