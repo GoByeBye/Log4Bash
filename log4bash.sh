@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 
-# <one line to give the program's name and a brief idea of what it does.>
+# Log4Bash is a simple utility to help standardize logging in bash
 # Copyright (C) 2022 Daddie0
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -21,6 +21,8 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 # SOFTWARE.
+
+
 
 # Configs
 # ------------------------------------------------------------------------------
