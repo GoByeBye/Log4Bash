@@ -71,7 +71,7 @@ export LOG_COLOR_NOTICE="\e[32m"
 export LOG_COLOR_INFO="\e[0m"
 export LOG_COLOR_DEBUG="\e[37m"
 export LOG_COLOR_RESET="\e[0m"
-export LOG_LEVEL_DEFAULT="DEBUG"
+export LOG_LEVEL_DEFAULT="INFO"
 
 [[ -z $LOG_LEVEL ]] && LOG_LEVEL=$LOG_LEVEL_DEFAULT
 
