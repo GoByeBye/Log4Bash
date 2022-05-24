@@ -26,8 +26,10 @@
 SCRIPT_NAME="$0"
 # Replace all "/" with "" to avoid weird additional slashes to the script name
 SCRIPT_NAME="${SCRIPT_NAME//\//}"
+# Replace file ending with "" to avoid weird file endings to the script name
+SCRIPT_NAME="${SCRIPT_NAME%.*}"
 
-export LOGFILE="/var/log/cim/${SCRIPT_NAME}.log"
+export LOGFILE="${SCRIPT_NAME}.log"
 export LOG_FORMAT="%DATE | %PID | %LEVEL | %MESSAGE" # This was very shamelessly inspired by the way the MYSQL 8.0 Docker image handles logging
 
 # Date format in RFC 3339
